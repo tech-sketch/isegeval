@@ -6,6 +6,7 @@ the number of click (NoC) performance of the given model on the given dataset.
 
 ## Usage
 
+You could evaluate your model as follows. See [notebooks](./notebooks) for more detail.
 
 ```py
 from isegeval import evaluate
